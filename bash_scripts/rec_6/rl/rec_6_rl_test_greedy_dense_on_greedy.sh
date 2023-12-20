@@ -1,0 +1,1 @@
+python -m experiment_scripts.rl.rl_experiment --stdout --env rec_6 --Delta-M 41 --Delta-P 7 --Delta-P-prime 0 --n-cpus 3 --rl-env rl_greedy_dense --rl-env-eval rl --remove-historical-peak-costs --remove-current-peak-costs --ne 64 --gc 4 --n-sgds 15

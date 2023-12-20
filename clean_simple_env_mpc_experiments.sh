@@ -1,0 +1,1 @@
+rm -rf ../rec_experiments/MPC/env\=simple_long/ && find wandb/* -name "*simple_long_*" -exec rm -rf {} \;

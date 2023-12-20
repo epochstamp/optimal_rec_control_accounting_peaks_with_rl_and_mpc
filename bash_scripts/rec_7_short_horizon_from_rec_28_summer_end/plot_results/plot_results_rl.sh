@@ -1,0 +1,1 @@
+python -m experiment_scripts.generic.plot_results --is-rl --folder-results /home/samait/rec_experiments/RL --sha-folders --tar-gz-results --look-for-wandb-results --group-by rl_env --group-by action_weights_divider --group-by gamma_policy --group-by learning_rate --group-by model_config --group-by space_converter --group-by vf_coeff --group-by lambda_gae --show-only-mean

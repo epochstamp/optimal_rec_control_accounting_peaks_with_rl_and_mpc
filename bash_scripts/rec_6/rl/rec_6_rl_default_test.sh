@@ -1,0 +1,1 @@
+python -m experiment_scripts.rl.rl_experiment --stdout --env rec_6 --Delta-M 41 --Delta-P 7 --Delta-P-prime 0 --n-cpus 3 --remove-historical-peak-costs ${@:2}
